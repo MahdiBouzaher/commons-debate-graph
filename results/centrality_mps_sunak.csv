@@ -1,0 +1,639 @@
+,name,party,group,degree,strength share %,pagerank,betweenness
+uk.org.publicwhip/person/10001,Diane Abbott,Independent,Other,16,0.01475013275119476,0.00035255801732669894,0.0
+uk.org.publicwhip/person/10031,Margaret Beckett,Labour,Labour,9,0.01106259956339607,0.00032114676673104087,0.0
+uk.org.publicwhip/person/10041,Paul Beresford,Conservative,Conservative,32,0.027287745589710307,0.00047082047981118085,0.0
+uk.org.publicwhip/person/10045,Clive Betts,Labour,Labour,162,0.23968965720691487,0.0022339867656788743,0.0018413751567390383
+uk.org.publicwhip/person/10051,Crispin Blunt,Conservative,Conservative,44,0.04867543807894271,0.0006294934215478428,0.0
+uk.org.publicwhip/person/10057,Peter Bottomley,Conservative,Conservative,172,0.2537022833205499,0.0023267433540026055,0.00242390134573423
+uk.org.publicwhip/person/10061,Ben Bradshaw,Labour,Labour,76,0.09440084960764647,0.0009787143696658033,0.0
+uk.org.publicwhip/person/10062,Graham Brady,Conservative,Conservative,2,0.001475013275119476,0.0002465233090427186,0.0
+uk.org.publicwhip/person/10069,Nick Brown,Independent,Other,2,0.001475013275119476,0.00024583370635967875,0.0
+uk.org.publicwhip/person/10075,Karen Buck,Labour,Labour,51,0.05900053100477904,0.0007547769581740181,0.0
+uk.org.publicwhip/person/10086,Alan Campbell,Labour,Labour,6,0.005162546462918166,0.0003171061036135207,0.0
+uk.org.publicwhip/person/10095,Bill Cash,Conservative,Conservative,168,0.2832025488229394,0.0026299435532088286,0.0009490733884264883
+uk.org.publicwhip/person/10103,Christopher Chope,Conservative,Conservative,226,0.3606407457667119,0.0032101709952083706,0.009216749108932398
+uk.org.publicwhip/person/10119,Geoffrey Clifton-Brown,Conservative,Conservative,83,0.08407575668181014,0.0009384895640406678,0.0
+uk.org.publicwhip/person/10131,Yvette Cooper,Labour,Labour,121,0.26623989615906546,0.002380515596295463,0.010940878528479607
+uk.org.publicwhip/person/10133,Jeremy Corbyn,Independent,Other,143,0.17921411292701633,0.001678583855623645,1.2341656546508299e-05
+uk.org.publicwhip/person/10143,John Cryer,Labour,Labour,58,0.06268806419257773,0.0007623192724174717,0.0
+uk.org.publicwhip/person/10155,Edward Davey,Liberal Democrat,Liberal Democrat,25,0.05310047790430114,0.0006667490252199954,0.0
+uk.org.publicwhip/person/10159,Geraint Davies,Labour,Labour,45,0.054575491179420614,0.0006840795148514303,0.0
+uk.org.publicwhip/person/10162,David Davis,Conservative,Conservative,165,0.20576435187916692,0.001998590918799888,0.0016562503085414137
+uk.org.publicwhip/person/10172,Jeffrey M. Donaldson,DUP,Other,46,0.12463862174759573,0.0013347249410155491,0.0031964890455456496
+uk.org.publicwhip/person/10180,Iain Duncan Smith,Conservative,Conservative,145,0.20133931205380848,0.001896035751370007,0.0017685593831146392
+uk.org.publicwhip/person/10182,Angela Eagle,Labour,Labour,146,0.15856392707534367,0.0016079206049940203,1.851248481976245e-05
+uk.org.publicwhip/person/10183,Maria Eagle,Labour,Labour,68,0.07596318366865301,0.0008700886172129861,0.0
+uk.org.publicwhip/person/10185,Clive Efford,Labour,Labour,182,0.28762758864829785,0.0025990323462334024,0.003234336792288275
+uk.org.publicwhip/person/10193,Michael Fabricant,Conservative,Conservative,139,0.18658917930261373,0.0017361882820226924,0.0017837807595219995
+uk.org.publicwhip/person/10213,Liam Fox,Conservative,Conservative,84,0.08997580978228804,0.0009643772488494704,0.0003184147388999141
+uk.org.publicwhip/person/10217,Roger Gale,Conservative,Conservative,93,0.0833382500442504,0.0011781950691667341,0.0
+uk.org.publicwhip/person/10218,George Galloway,Workers Party,Other,36,0.0368753318779869,0.0005403394749331962,0.0
+uk.org.publicwhip/person/10220,Barry Gardiner,Labour,Labour,77,0.08407575668181014,0.0009371359794994217,0.0
+uk.org.publicwhip/person/10225,Nick Gibb,Conservative,Conservative,176,0.20281432532892796,0.002163905232513457,0.00020857399563599025
+uk.org.publicwhip/person/10240,James Gray,Conservative,Conservative,78,0.11652604873443861,0.0011959401056086598,0.0
+uk.org.publicwhip/person/10241,Damian Green,Conservative,Conservative,85,0.08628827659448934,0.000979240348201349,0.0
+uk.org.publicwhip/person/10256,Fabian Hamilton,Labour,Labour,23,0.02950026550238952,0.0004636260622479017,0.0
+uk.org.publicwhip/person/10260,Harriet Harman,Labour,Labour,25,0.027287745589710307,0.00048459641654761824,0.00045910962353010876
+uk.org.publicwhip/person/10265,John Hayes,Conservative,Conservative,188,0.29205262847365626,0.002616330773676136,0.00036613581087974623
+uk.org.publicwhip/person/10267,Oliver Heald,Conservative,Conservative,64,0.07006313056817512,0.0008598183661094755,0.0
+uk.org.publicwhip/person/10268,John Healey,Labour,Labour,47,0.12463862174759573,0.0012211803923803941,0.004146796599626789
+uk.org.publicwhip/person/10281,Margaret Hodge,Labour,Labour,97,0.14233878104902944,0.0014086008648775718,0.0
+uk.org.publicwhip/person/10292,George Howarth,Labour,Labour,43,0.04056286506578559,0.0005634974584098683,0.0
+uk.org.publicwhip/person/10312,Bernard Jenkin,Conservative,Conservative,104,0.12242610183491652,0.0012551728167427964,0.0005644250927269795
+uk.org.publicwhip/person/10352,Edward Leigh,Conservative,Conservative,184,0.26107734969614727,0.0023479022384397504,0.002359724731692387
+uk.org.publicwhip/person/10358,Julian Lewis,Conservative,Conservative,191,0.3141778276004484,0.0028629423666591625,0.00560558040342407
+uk.org.publicwhip/person/10367,Tony Lloyd,Labour,Labour,25,0.02212519912679214,0.00042015583070511913,0.0
+uk.org.publicwhip/person/10371,Tim Loughton,Conservative,Conservative,190,0.2669774027966252,0.002352065560586643,7.158160796974813e-05
+uk.org.publicwhip/person/10377,Steve McCabe,Labour,Labour,90,0.10767596908372175,0.0011424049279766242,7.40499392790498e-06
+uk.org.publicwhip/person/10381,Siobhain McDonagh,Labour,Labour,41,0.03318779869018821,0.0004999736346905906,0.0
+uk.org.publicwhip/person/10383,John Martin McDonnell,Labour,Labour,226,0.2669774027966252,0.0024620839819669564,0.0018191601749553232
+uk.org.publicwhip/person/10426,Theresa May,Conservative,Conservative,55,0.0737506637559738,0.0008360401608062077,3.455663833022324e-05
+uk.org.publicwhip/person/10499,John Redwood,Conservative,Conservative,171,0.22051448463036166,0.002167133566069519,8.63915958255581e-05
+uk.org.publicwhip/person/10505,Laurence Robertson,Conservative,Conservative,66,0.07596318366865301,0.0008118787516895276,0.0
+uk.org.publicwhip/person/10534,Barry Sheerman,Labour,Labour,176,0.3082777744999705,0.002766134802701001,0.004825587709684745
+uk.org.publicwhip/person/10558,John Spellar,Labour,Labour,122,0.17110153991385924,0.0016549264035853719,0.00017401735730576703
+uk.org.publicwhip/person/10575,Gary Streeter,Conservative,Conservative,6,0.005900053100477904,0.0002820395761749549,0.0
+uk.org.publicwhip/person/10576,Graham Stringer,Labour,Labour,40,0.05015045135406219,0.0006504215801408867,0.0
+uk.org.publicwhip/person/10580,Desmond Swayne,Conservative,Conservative,148,0.2035518319664877,0.0018121103808731301,9.87332523720664e-06
+uk.org.publicwhip/person/10582,Robert Syms,Conservative,Conservative,46,0.03761283851554664,0.000546447423463539,0.0
+uk.org.publicwhip/person/10594,Gareth Thomas,Labour,Labour,81,0.10620095580860228,0.0011495514299025183,0.0
+uk.org.publicwhip/person/10596,Stephen Timms,Labour,Labour,120,0.17700159301433713,0.0017387910665435928,0.007770306961681625
+uk.org.publicwhip/person/10604,Jon Trickett,Labour,Labour,73,0.08555076995692962,0.0009150252534888298,0.0
+uk.org.publicwhip/person/10610,Derek Twigg,Labour,Labour,50,0.0678506106554959,0.0008162903681011413,0.0
+uk.org.publicwhip/person/10630,Alan Whitehead,Labour,Labour,58,0.09661336952032569,0.001048162436766436,0.00029990225408015167
+uk.org.publicwhip/person/10632,John Whittingdale,Conservative,Conservative,172,0.2249395244557201,0.002131190857625479,0.00024395341106931405
+uk.org.publicwhip/person/10669,Hilary Benn,Labour,Labour,94,0.14381379432414892,0.0014969860255745588,0.0
+uk.org.publicwhip/person/10678,David Lammy,Labour,Labour,79,0.14012626113635024,0.0014103091587187424,0.00605234837040767
+uk.org.publicwhip/person/10682,Mark Hendrick,Labour,Labour,35,0.030975278777508997,0.0005066783882331083,0.0
+uk.org.publicwhip/person/10707,Richard Bacon,Conservative,Conservative,28,0.02581273231459083,0.00046854230938789027,0.0
+uk.org.publicwhip/person/10715,John Baron,Conservative,Conservative,61,0.0678506106554959,0.0007870752611369496,0.0
+uk.org.publicwhip/person/10753,Kevin Brennan,Labour,Labour,110,0.16815151336362028,0.00161510684046605,0.001458783803797281
+uk.org.publicwhip/person/10761,Chris Bryant,Labour,Labour,249,0.46094164847483626,0.004086482789847883,0.05011905584681865
+uk.org.publicwhip/person/10780,Gregory Campbell,DUP,Other,86,0.09366334297008673,0.0012344817451503906,0.001567390381406554
+uk.org.publicwhip/person/10785,Alistair Carmichael,Liberal Democrat,Liberal Democrat,205,0.3606407457667119,0.0030411047137860756,0.0028904159631922438
+uk.org.publicwhip/person/10842,Wayne David,Labour,Labour,55,0.05973803764233878,0.0007430890190703773,0.0
+uk.org.publicwhip/person/10854,Jonathan Djanogly,Conservative,Conservative,38,0.04130037170334533,0.0005864527027844394,0.0
+uk.org.publicwhip/person/10901,Mark Francois,Conservative,Conservative,119,0.1644639801758216,0.0016140391004769417,3.208830702092158e-05
+uk.org.publicwhip/person/10920,Chris Grayling,Conservative,Conservative,38,0.039825358428225856,0.0005643872024648571,2.46833130930166e-06
+uk.org.publicwhip/person/10999,Boris Johnson,Conservative,Conservative,17,0.016962652663873975,0.00036587164148715607,0.0
+uk.org.publicwhip/person/11003,Kevan Jones,Labour,Labour,182,0.3127028143253289,0.002799638040912293,0.009519119694321851
+uk.org.publicwhip/person/11026,Greg Knight,Conservative,Conservative,24,0.03318779869018821,0.0005024559703303542,0.0
+uk.org.publicwhip/person/11048,Ian Liddell-Grainger,Conservative,Conservative,20,0.03761283851554664,0.0005489829357683199,0.0
+uk.org.publicwhip/person/11087,Khalid Mahmood,Labour,Labour,33,0.04130037170334533,0.0005706485664816445,0.0
+uk.org.publicwhip/person/11115,Andrew Mitchell,Conservative,Conservative,621,1.8673668063012567,0.016366717739166974,0.2408075228156091
+uk.org.publicwhip/person/11132,Andrew Murrison,Conservative,Conservative,235,0.28172753554781993,0.0028103580670346905,0.001262551464707799
+uk.org.publicwhip/person/11199,Andrew Rosindell,Conservative,Conservative,49,0.05678801109209983,0.0007006156897144081,0.0
+uk.org.publicwhip/person/11216,Andrew Selous,Conservative,Conservative,164,0.35326567939111453,0.003178988240024228,0.011527107214438751
+uk.org.publicwhip/person/11267,Mark Tami,Labour,Labour,54,0.06047554427989852,0.0007886931337250639,0.0001987006703987836
+uk.org.publicwhip/person/11318,Bill Wiggin,Conservative,Conservative,87,0.10693846244616202,0.0011292557415433842,0.00013946071897554378
+uk.org.publicwhip/person/11323,Hywel Williams,Plaid Cymru,Other,107,0.11726355537199835,0.0012345646074057863,0.0
+uk.org.publicwhip/person/11333,Pete Wishart,Scottish National Party,Scottish National Party,59,0.07891321021889197,0.0009011091151808296,7.651827058835145e-05
+uk.org.publicwhip/person/11360,Liam Byrne,Labour,Labour,123,0.20281432532892796,0.0019759679291779073,0.00593386846756119
+uk.org.publicwhip/person/11374,Sammy Wilson,DUP,Other,211,0.33482801345212104,0.0030996229003147813,0.002086562733463003
+uk.org.publicwhip/person/11389,Maria Miller,Conservative,Conservative,125,0.14971384742462682,0.0014813811565349555,0.0
+uk.org.publicwhip/person/11406,Graham Stuart,Conservative,Conservative,392,0.6519558676028084,0.006010973581286012,0.025725771682644998
+uk.org.publicwhip/person/11408,David Evennett,Conservative,Conservative,71,0.07891321021889197,0.0008748509598244575,0.0
+uk.org.publicwhip/person/11437,Tobias Ellwood,Conservative,Conservative,89,0.1511888606997463,0.001463986461137015,0.0
+uk.org.publicwhip/person/11447,Dawn Butler,Labour,Labour,99,0.09735087615788542,0.001042622803987355,0.0
+uk.org.publicwhip/person/11455,Kerry McCarthy,Labour,Labour,171,0.275827482447342,0.002438220108577205,0.003943159266609402
+uk.org.publicwhip/person/11461,Charles Walker,Conservative,Conservative,54,0.06195055755501799,0.0007616817772366737,0.0
+uk.org.publicwhip/person/11475,Shailesh Vara,Conservative,Conservative,28,0.038350345153106376,0.0005483447802088445,0.0
+uk.org.publicwhip/person/11500,Theresa Villiers,Conservative,Conservative,172,0.2795150156351407,0.0023940860167805085,1.23416565465083e-06
+uk.org.publicwhip/person/11506,David Jones,Conservative,Conservative,66,0.06563809074281668,0.0008033034854628153,0.0
+uk.org.publicwhip/person/11531,Andrew Gwynne,Labour,Labour,216,0.31934037406336657,0.0028969868793229767,0.0013978982981678399
+uk.org.publicwhip/person/11541,Geoffrey Cox,Conservative,Conservative,21,0.02212519912679214,0.00041300952638630357,0.0
+uk.org.publicwhip/person/11545,Ed Miliband,Labour,Labour,45,0.09218832969496725,0.0009994764787414033,0.000486261267932427
+uk.org.publicwhip/person/11559,Andrew Slaughter,Labour,Labour,133,0.1961767655908903,0.001887495837540978,0.006092664448459596
+uk.org.publicwhip/person/11588,Mark Harper,Conservative,Conservative,288,0.4189037701339312,0.003940577624946489,0.006217315179579332
+uk.org.publicwhip/person/11592,Sharon Hodgson,Labour,Labour,85,0.09366334297008673,0.0010050248183513986,0.0
+uk.org.publicwhip/person/11599,Adam Holloway,Conservative,Conservative,15,0.014012626113635024,0.000339915234722779,0.0
+uk.org.publicwhip/person/11605,Meg Hillier,Labour,Labour,129,0.137913741223671,0.001363199774483314,0.0
+uk.org.publicwhip/person/11610,Greg Hands,Conservative,Conservative,69,0.08186323676913092,0.0010035149784364788,0.0
+uk.org.publicwhip/person/11626,Mike Penning,Conservative,Conservative,91,0.09145082305740751,0.0010276840679311406,1.480998785580996e-05
+uk.org.publicwhip/person/11647,Diana R. Johnson,Labour,Labour,206,0.35326567939111453,0.0030761966057705325,0.009999210133981024
+uk.org.publicwhip/person/11656,Emily Thornberry,Labour,Labour,27,0.04277538497846481,0.0006355835336658945,3.949330094882656e-05
+uk.org.publicwhip/person/11661,Philip Hollobone,Conservative,Conservative,111,0.19322673904065138,0.001741525552557031,0.0025868112121481394
+uk.org.publicwhip/person/11668,Ben Wallace,Conservative,Conservative,207,0.2964776682990147,0.002797393727560415,0.003042218338714296
+uk.org.publicwhip/person/11692,Nia Griffith,Labour,Labour,115,0.14012626113635024,0.0014035109434978846,7.40499392790498e-06
+uk.org.publicwhip/person/11696,Philip Dunne,Conservative,Conservative,82,0.08628827659448934,0.0009388316195679917,0.0
+uk.org.publicwhip/person/11719,David Davies,Conservative,Conservative,164,0.32819045371408345,0.0036276750920059024,0.012558458313175293
+uk.org.publicwhip/person/11732,Jessica Morden,Labour,Labour,61,0.08555076995692962,0.0009056594787544863,0.0
+uk.org.publicwhip/person/11768,Stephen Crabb,Conservative,Conservative,142,0.1666765000885008,0.0016615480680130044,3.3322472675572406e-05
+uk.org.publicwhip/person/11785,James Duddridge,Conservative,Conservative,56,0.06121305091745826,0.0007473238164786015,0.0
+uk.org.publicwhip/person/11791,Jeremy Wright,Conservative,Conservative,97,0.10988848899640097,0.0011489895639269086,2.46833130930166e-06
+uk.org.publicwhip/person/11804,Robert Goodwill,Conservative,Conservative,60,0.07448817039353355,0.000871267183523005,0.0
+uk.org.publicwhip/person/11816,Philip Davies,Conservative,Conservative,92,0.1534013806124255,0.0014767476950330709,0.002960763405507341
+uk.org.publicwhip/person/11817,Daniel Kawczynski,Conservative,Conservative,66,0.06932562393061538,0.0007515309212629595,0.0
+uk.org.publicwhip/person/11858,Michael Gove,Conservative,Conservative,432,0.6549058941530473,0.005969584660208627,0.005325013411266781
+uk.org.publicwhip/person/11859,Jeremy Hunt,Conservative,Conservative,330,0.4262788365095286,0.004085986588507236,0.0032892571639202375
+uk.org.publicwhip/person/11884,Greg Clark,Conservative,Conservative,68,0.07743819694377249,0.0008978442278252824,1.110749089185747e-05
+uk.org.publicwhip/person/11915,Peter Bone,Conservative,Conservative,28,0.03171278541506874,0.0004967996360081473,0.0
+uk.org.publicwhip/person/11917,Grant Shapps,Conservative,Conservative,454,0.7397191574724172,0.006641177609654515,0.023646202554558352
+uk.org.publicwhip/person/11921,Lyn Brown,Labour,Labour,77,0.09808838279544516,0.0010170361315650217,0.0
+uk.org.publicwhip/person/11923,Tim Farron,Liberal Democrat,Liberal Democrat,170,0.2249395244557201,0.0021525947135113584,0.0004023380034161706
+uk.org.publicwhip/person/11924,John Penrose,Conservative,Conservative,92,0.1202135819222373,0.001152659087896769,0.0
+uk.org.publicwhip/person/11927,Stephen Hammond,Conservative,Conservative,59,0.05678801109209983,0.0006934222329000045,0.0
+uk.org.publicwhip/person/11929,Adam Afriyie,Conservative,Conservative,14,0.013275119476075285,0.00034777524336988575,0.0
+uk.org.publicwhip/person/11936,Pat McFadden,Labour,Labour,28,0.05310047790430114,0.0006649863703804394,0.0001777198542697195
+uk.org.publicwhip/person/11943,Barbara Keeley,Labour,Labour,109,0.1489763407870671,0.001493526487404112,0.0007145819140428305
+uk.org.publicwhip/person/11946,Mark Pritchard,Conservative,Conservative,54,0.0737506637559738,0.0008518480936116,0.0
+uk.org.publicwhip/person/11970,David Mundell,Conservative,Conservative,54,0.07080063720573485,0.0008333690174511119,8.227771031005532e-07
+uk.org.publicwhip/person/11973,Stewart Hosie,Scottish National Party,Scottish National Party,47,0.05826302436721931,0.0007358573229129487,0.0
+uk.org.publicwhip/person/12004,Angus MacNeil,Independent,Other,101,0.15930143371290342,0.0016266941290647863,0.0001530365411767029
+uk.org.publicwhip/person/13736,Bob Neill,Conservative,Conservative,137,0.21682695144256298,0.0021987502522386373,0.005465296907345425
+uk.org.publicwhip/person/13852,Ian Paisley Jnr,DUP,Other,112,0.17036403327629948,0.001733609383970515,0.003243387340422381
+uk.org.publicwhip/person/13864,Jim Shannon,DUP,Other,520,1.2426986842881587,0.010891125662062484,0.45297294050663334
+uk.org.publicwhip/person/13899,Stephen Farry,Alliance,Other,84,0.15561390052510474,0.0015420198282396246,0.00021721315521854606
+uk.org.publicwhip/person/13934,Virendra Sharma,Labour,Labour,38,0.03540031860286742,0.0005207801493289789,0.0
+uk.org.publicwhip/person/14026,John Lamont,Conservative,Conservative,142,0.23895215056935512,0.002523298104622837,0.004589862069646436
+uk.org.publicwhip/person/14031,Kenny MacAskill,Alba,Other,71,0.09218832969496725,0.0009341776963749949,0.0
+uk.org.publicwhip/person/14128,Edward Timpson,Conservative,Conservative,55,0.05826302436721931,0.0007002147902355322,0.0
+uk.org.publicwhip/person/14131,John Howell,Conservative,Conservative,41,0.038350345153106376,0.0005766852395576465,0.0
+uk.org.publicwhip/person/14146,Anne McLaughlin,Scottish National Party,Scottish National Party,47,0.05310047790430114,0.0006572241573579362,0.0
+uk.org.publicwhip/person/24691,Chloe Smith,Conservative,Conservative,89,0.09735087615788542,0.0010743817540877847,1.727831916511162e-05
+uk.org.publicwhip/person/24709,Bridget Phillipson,Labour,Labour,72,0.09956339607056464,0.001065965757345303,0.0011724573719182885
+uk.org.publicwhip/person/24710,Julie Elliott,Labour,Labour,40,0.04203787834090507,0.0005988378586576769,0.0
+uk.org.publicwhip/person/24713,Chris Skidmore,Conservative,Conservative,22,0.019912679214112928,0.000400148559460368,0.0
+uk.org.publicwhip/person/24715,Grahame Morris,Labour,Labour,131,0.15930143371290342,0.0015541435929407432,7.898660189765312e-05
+uk.org.publicwhip/person/24716,Jack Lopresti,Conservative,Conservative,40,0.05310047790430114,0.0006679458470479202,0.0
+uk.org.publicwhip/person/24721,Chris Evans,Labour,Labour,41,0.039825358428225856,0.0005624561553396139,0.0
+uk.org.publicwhip/person/24725,Karen Bradley,Conservative,Conservative,99,0.0988258894330049,0.0011067933426100209,0.0010317624872880939
+uk.org.publicwhip/person/24728,Nick Smith,Labour,Labour,88,0.0988258894330049,0.0010825086394102934,0.0015649220500972524
+uk.org.publicwhip/person/24729,Gavin Williamson,Conservative,Conservative,19,0.01770015930143371,0.00040155352513791484,0.0
+uk.org.publicwhip/person/24731,Rebecca Harris,Conservative,Conservative,1,0.000737506637559738,0.0002351097178683386,0.0
+uk.org.publicwhip/person/24740,Alun Cairns,Conservative,Conservative,94,0.10325092925836332,0.0011305992550115617,0.0
+uk.org.publicwhip/person/24741,Andrew Bridgen,Reclaim,Other,155,0.2625523629712667,0.0024135539826503466,0.0040480633472547226
+uk.org.publicwhip/person/24742,Alex Cunningham,Labour,Labour,195,0.2640273762463862,0.002431112360429763,0.003562213467873846
+uk.org.publicwhip/person/24743,Jonathan Edwards,Independent,Other,102,0.11947607528467756,0.0012398687773715735,0.0
+uk.org.publicwhip/person/24744,Damian Collins,Conservative,Conservative,73,0.09292583633252699,0.0010333789716266595,0.0
+uk.org.publicwhip/person/24745,Marcus Jones,Conservative,Conservative,8,0.006637559738037643,0.0003057115969280179,0.0
+uk.org.publicwhip/person/24749,Stephen Metcalfe,Conservative,Conservative,79,0.07670069030621275,0.0008524965731195787,0.0
+uk.org.publicwhip/person/24756,Daniel Poulter,Conservative,Conservative,46,0.04425039825358428,0.0006387080954789551,0.0
+uk.org.publicwhip/person/24758,Andrew Jones,Conservative,Conservative,113,0.1452888075992684,0.0013517920462116117,4.93666261860332e-06
+uk.org.publicwhip/person/24759,Andrew Stephenson,Conservative,Conservative,111,0.10546344917104254,0.001276733539766757,0.0
+uk.org.publicwhip/person/24764,Paul Maynard,Conservative,Conservative,102,0.10767596908372175,0.0011695619664907955,0.0
+uk.org.publicwhip/person/24767,Karl Turner,Labour,Labour,28,0.028025252227270047,0.00047078585120263066,0.0
+uk.org.publicwhip/person/24769,Heather Wheeler,Conservative,Conservative,54,0.05162546462918166,0.0006520745137691322,0.0
+uk.org.publicwhip/person/24771,Therese Coffey,Conservative,Conservative,289,0.39382854445690013,0.0035550765880607146,0.007818439422213008
+uk.org.publicwhip/person/24773,Matthew Hancock,Independent,Other,56,0.06342557083013747,0.0008489547994047315,0.0
+uk.org.publicwhip/person/24774,Lilian Greenwood,Labour,Labour,73,0.09292583633252699,0.0009947102672366664,0.0
+uk.org.publicwhip/person/24775,Yasmin Qureshi,Labour,Labour,89,0.08407575668181014,0.0009416220783753662,7.40499392790498e-06
+uk.org.publicwhip/person/24778,Priti Patel,Conservative,Conservative,171,0.2094518850669656,0.001932099683458125,5.5126065907737066e-05
+uk.org.publicwhip/person/24780,Conor Burns,Conservative,Conservative,21,0.024337719039471354,0.0004302546729786345,0.0
+uk.org.publicwhip/person/24782,Damian Hinds,Conservative,Conservative,224,0.27435246917222256,0.0028719752408821013,0.0003961671751429164
+uk.org.publicwhip/person/24784,Robert Halfon,Conservative,Conservative,163,0.20576435187916692,0.0021750898269820135,0.0026522219918446335
+uk.org.publicwhip/person/24785,Harriett Baldwin,Conservative,Conservative,102,0.13717623458611128,0.0013866071284360049,0.000544267053701016
+uk.org.publicwhip/person/24786,Steven Baker,Conservative,Conservative,136,0.3156528408755679,0.003050711249165796,0.007511132174204951
+uk.org.publicwhip/person/24787,Richard Fuller,Conservative,Conservative,174,0.25517729659566935,0.0023593522922156713,0.0002641114500952776
+uk.org.publicwhip/person/24788,Shabana Mahmood,Labour,Labour,11,0.02655023895215057,0.00047371878121035404,0.0
+uk.org.publicwhip/person/24790,Karl McCartney,Conservative,Conservative,35,0.03171278541506874,0.0004937707455857357,0.0
+uk.org.publicwhip/person/24796,Helen Grant,Conservative,Conservative,2,0.001475013275119476,0.00024937671858705205,0.0
+uk.org.publicwhip/person/24799,John Stevenson,Conservative,Conservative,32,0.02950026550238952,0.0004632868527034476,0.0
+uk.org.publicwhip/person/24802,Henry Smith,Conservative,Conservative,103,0.12758864829783467,0.0012409492253202916,0.0030932305191065297
+uk.org.publicwhip/person/24803,Gareth Johnson,Conservative,Conservative,53,0.047937931441382975,0.0006116212929175073,0.0
+uk.org.publicwhip/person/24804,Mark Menzies,Independent,Other,53,0.05088795799162193,0.0006275561551841733,0.0
+uk.org.publicwhip/person/24805,Yvonne Fovargue,Labour,Labour,10,0.00737506637559738,0.0003066968017945602,0.0
+uk.org.publicwhip/person/24807,Chi Onwurah,Labour,Labour,131,0.20797687179184612,0.0018609376970767915,0.0
+uk.org.publicwhip/person/24809,Caroline Nokes,Conservative,Conservative,70,0.07743819694377249,0.0008876822918665785,7.40499392790498e-06
+uk.org.publicwhip/person/24814,Martin Vickers,Conservative,Conservative,101,0.16151395362558263,0.0015147871046301835,0.0
+uk.org.publicwhip/person/24815,Dominic Raab,Conservative,Conservative,234,0.23378960410643695,0.002367840032589565,0.0004455338013289496
+uk.org.publicwhip/person/24816,Liz Kendall,Labour,Labour,42,0.06858811729305564,0.0008345247767819947,0.00016537819772321122
+uk.org.publicwhip/person/24817,George Freeman,Conservative,Conservative,91,0.09440084960764647,0.0010531272001471875,0.0
+uk.org.publicwhip/person/24818,Catherine McKinnell,Labour,Labour,58,0.06121305091745826,0.0007555960853471379,0.0
+uk.org.publicwhip/person/24820,David Rutley,Conservative,Conservative,262,0.30532774794973155,0.0030442554203459265,0.004276383993365126
+uk.org.publicwhip/person/24821,Pauline Latham,Conservative,Conservative,29,0.04277538497846481,0.0005539441065954349,0.0
+uk.org.publicwhip/person/24822,Nadhim Zahawi,Conservative,Conservative,9,0.00811257301315712,0.00029488191285326464,0.0
+uk.org.publicwhip/person/24824,Mark Garnier,Conservative,Conservative,38,0.03318779869018821,0.000524002381008096,0.0
+uk.org.publicwhip/person/24827,Jesse Norman,Conservative,Conservative,135,0.16151395362558263,0.0017373103362572468,0.004480021326382513
+uk.org.publicwhip/person/24828,Gordon Henderson,Conservative,Conservative,16,0.021387692489232404,0.0003862935116465459,0.0
+uk.org.publicwhip/person/24829,Andrea Leadsom,Conservative,Conservative,219,0.21461443152988377,0.002151371642254288,2.46833130930166e-06
+uk.org.publicwhip/person/24831,Lisa Nandy,Labour,Labour,71,0.09440084960764647,0.0010053936482213458,6.17082827325415e-05
+uk.org.publicwhip/person/24832,Andrew Percy,Conservative,Conservative,72,0.09292583633252699,0.0009983147855573494,0.0
+uk.org.publicwhip/person/24839,John Glen,Conservative,Conservative,322,0.4277538497846481,0.004020356683546938,0.005206533508420301
+uk.org.publicwhip/person/24841,Chris Heaton-Harris,Conservative,Conservative,189,0.4189037701339312,0.004117315804839911,0.03280782559758301
+uk.org.publicwhip/person/24843,Robert Buckland,Conservative,Conservative,180,0.26107734969614727,0.002418139682695197,0.0015151440353596687
+uk.org.publicwhip/person/24845,Toby Perkins,Labour,Labour,121,0.14086376777390996,0.0014018099542564514,0.0
+uk.org.publicwhip/person/24851,Rachel Reeves,Labour,Labour,49,0.07522567703109329,0.0008200871401564693,2.221498178371494e-05
+uk.org.publicwhip/person/24852,Valerie Vaz,Labour,Labour,68,0.07301315711841407,0.0008556594115057991,0.0
+uk.org.publicwhip/person/24853,Julian Sturdy,Conservative,Conservative,22,0.02212519912679214,0.0004163469834095959,0.0
+uk.org.publicwhip/person/24854,Sajid Javid,Conservative,Conservative,23,0.023600212401911617,0.0004288121995541018,0.0
+uk.org.publicwhip/person/24855,James Morris,Conservative,Conservative,49,0.056050504454540094,0.0006897605397487682,0.0
+uk.org.publicwhip/person/24857,Fiona Bruce,Conservative,Conservative,64,0.08776328986960882,0.0009179111412442854,0.0
+uk.org.publicwhip/person/24860,Jake Berry,Conservative,Conservative,47,0.05310047790430114,0.0006853110354007593,0.0
+uk.org.publicwhip/person/24862,Robin Walker,Conservative,Conservative,148,0.16962652663873976,0.0016705700493361815,7.775243624300229e-05
+uk.org.publicwhip/person/24864,Stuart Andrew,Conservative,Conservative,270,0.3879284913564222,0.003975825370934412,0.016824968981303215
+uk.org.publicwhip/person/24866,Michael Ellis,Conservative,Conservative,92,0.12832615493539443,0.0012905513538215374,0.002227669006644748
+uk.org.publicwhip/person/24870,Justin Tomlinson,Conservative,Conservative,102,0.09808838279544516,0.001136378417506436,2.46833130930166e-06
+uk.org.publicwhip/person/24871,Tracey Crouch,Conservative,Conservative,49,0.039825358428225856,0.0005917085806801046,0.0
+uk.org.publicwhip/person/24872,Ian Murray,Labour,Labour,46,0.08776328986960882,0.0010268811192919464,0.0002221498178371494
+uk.org.publicwhip/person/24873,Caroline Dinenage,Conservative,Conservative,66,0.06490058410525695,0.0007722966845178048,0.0
+uk.org.publicwhip/person/24875,Sheryll Murray,Conservative,Conservative,61,0.07227565048085433,0.0007925674094446109,0.0
+uk.org.publicwhip/person/24878,Nigel Adams,Conservative,Conservative,19,0.015487639388754498,0.0003685355193679242,0.0
+uk.org.publicwhip/person/24879,Brandon Lewis,Conservative,Conservative,11,0.00811257301315712,0.0002943135968265523,0.0
+uk.org.publicwhip/person/24880,Mark Pawsey,Conservative,Conservative,82,0.10103840934568412,0.0010207980079642435,0.0
+uk.org.publicwhip/person/24882,Esther McVey,Conservative,Conservative,60,0.08112573013157118,0.0009659340203041388,7.158160796974813e-05
+uk.org.publicwhip/person/24884,Jonathan Lord,Conservative,Conservative,39,0.0368753318779869,0.000555669624132104,0.0
+uk.org.publicwhip/person/24887,Jason McCartney,Conservative,Conservative,56,0.07596318366865301,0.0008267880235980809,0.0
+uk.org.publicwhip/person/24888,Stephen McPartland,Conservative,Conservative,4,0.002950026550238952,0.00026118853672374074,0.0
+uk.org.publicwhip/person/24893,Alec Shelbrooke,Conservative,Conservative,78,0.09808838279544516,0.0010500708471804327,2.46833130930166e-06
+uk.org.publicwhip/person/24897,Alison McGovern,Labour,Labour,66,0.08260074340669066,0.0009350681347691615,2.46833130930166e-06
+uk.org.publicwhip/person/24901,Steve Brine,Conservative,Conservative,85,0.11283851554663991,0.0012084495961869376,0.001640206155030953
+uk.org.publicwhip/person/24902,Alok Sharma,Conservative,Conservative,24,0.02950026550238952,0.000472999990823073,0.0
+uk.org.publicwhip/person/24903,Richard Drax,Conservative,Conservative,96,0.09808838279544516,0.0010680121201741,0.0
+uk.org.publicwhip/person/24904,Peter Aldous,Conservative,Conservative,163,0.1784766062894566,0.0016660604915479658,2.4683313093016605e-05
+uk.org.publicwhip/person/24905,Bill Esterson,Labour,Labour,78,0.08776328986960882,0.0009296720549887855,4.93666261860332e-06
+uk.org.publicwhip/person/24907,Bob Stewart,Conservative,Conservative,103,0.09145082305740751,0.0011308605715427242,4.93666261860332e-06
+uk.org.publicwhip/person/24909,Mark Spencer,Conservative,Conservative,273,0.3975160776446988,0.0037698634576800202,0.010645090159914957
+uk.org.publicwhip/person/24910,Caroline Lucas,Green,Other,171,0.2669774027966252,0.0024006609435965618,0.00857991963113257
+uk.org.publicwhip/person/24912,Anne Marie Morris,Conservative,Conservative,6,0.00737506637559738,0.000295352737644142,0.0
+uk.org.publicwhip/person/24914,Mel Stride,Conservative,Conservative,387,0.5774676972092749,0.005531624292285009,0.02122435815158187
+uk.org.publicwhip/person/24916,Steve Barclay,Conservative,Conservative,501,0.8422325800932209,0.008009962464893631,0.05201308873815613
+uk.org.publicwhip/person/24919,Ian Mearns,Labour,Labour,34,0.0988258894330049,0.0009823926906161857,0.0
+uk.org.publicwhip/person/24920,Rehman Chishti,Conservative,Conservative,84,0.09808838279544516,0.0010342753327895126,0.0
+uk.org.publicwhip/person/24921,Richard Graham,Conservative,Conservative,154,0.18290164611481502,0.001752911313388552,0.0
+uk.org.publicwhip/person/24926,Jacob Rees-Mogg,Conservative,Conservative,135,0.1644639801758216,0.001592081136099869,0.0013003992114504243
+uk.org.publicwhip/person/24927,Mary Glindon,Labour,Labour,91,0.10841347572128149,0.001063054772863591,0.0
+uk.org.publicwhip/person/24929,Jonathan Reynolds,Labour,Labour,90,0.12685114166027495,0.001310755278274761,0.00181422351233672
+uk.org.publicwhip/person/24933,George Eustice,Conservative,Conservative,61,0.06563809074281668,0.0007877138782725533,0.0
+uk.org.publicwhip/person/24934,Mike Freer,Conservative,Conservative,182,0.23231459083131747,0.002449461984651504,0.001568624547061205
+uk.org.publicwhip/person/24938,Penny Mordaunt,Conservative,Conservative,690,2.7088618797569177,0.02285931909462244,0.4175988731244796
+uk.org.publicwhip/person/24941,Elizabeth Truss,Conservative,Conservative,20,0.01770015930143371,0.0003820910129510227,0.0
+uk.org.publicwhip/person/24943,Paul Blomfield,Labour,Labour,49,0.053837984541860874,0.0006916246833916757,0.0
+uk.org.publicwhip/person/24944,Craig Whittaker,Conservative,Conservative,23,0.019175172576553188,0.0004224850223250653,0.0
+uk.org.publicwhip/person/24945,Bob Blackman,Conservative,Conservative,254,0.46241666174995577,0.00392174424544828,0.022561782332671823
+uk.org.publicwhip/person/24947,Iain Stewart,Conservative,Conservative,40,0.05162546462918166,0.0006787647989128509,0.0
+uk.org.publicwhip/person/24949,Stella Creasy,Labour,Labour,187,0.3289279603516432,0.0029649270422826787,0.00974168090071055
+uk.org.publicwhip/person/24955,Matthew Offord,Conservative,Conservative,73,0.08776328986960882,0.0009498130406923138,0.0
+uk.org.publicwhip/person/24957,Jackie Doyle-Price,Conservative,Conservative,69,0.07080063720573485,0.0008065506859666888,0.0
+uk.org.publicwhip/person/24958,Rushanara Ali,Labour,Labour,82,0.1143135288217594,0.001154091714108659,0.0
+uk.org.publicwhip/person/24961,Julian Smith,Conservative,Conservative,18,0.028025252227270047,0.0004809239477308869,0.0
+uk.org.publicwhip/person/24962,Guy Opperman,Conservative,Conservative,235,0.30090270812437314,0.003082610084290436,0.00012588489677438467
+uk.org.publicwhip/person/24963,Ian Lavery,Labour,Labour,102,0.1143135288217594,0.0011474160390298413,0.0
+uk.org.publicwhip/person/24965,Nigel Mills,Conservative,Conservative,93,0.1143135288217594,0.0011633762488520904,8.885992713485975e-05
+uk.org.publicwhip/person/24966,David Morris,Conservative,Conservative,11,0.00811257301315712,0.0002953032581789817,0.0
+uk.org.publicwhip/person/25034,Debbie Abrahams,Labour,Labour,173,0.25886482978346803,0.0023460452478183077,0.0025641848418128744
+uk.org.publicwhip/person/25067,Dan Jarvis,Labour,Labour,109,0.17331405982653844,0.0016332209963114152,0.0001480998785580996
+uk.org.publicwhip/person/25120,Jon Ashworth,Labour,Labour,39,0.053837984541860874,0.0007056670269601638,0.0
+uk.org.publicwhip/person/25130,Colum Eastwood,Social Democratic and Labour Party,Other,45,0.09366334297008673,0.0010452429956295751,3.208830702092158e-05
+uk.org.publicwhip/person/25150,Seema Malhotra,Labour,Labour,94,0.12168859519735678,0.0012479233539496358,0.00020733982998133942
+uk.org.publicwhip/person/25165,Lucy Powell,Labour,Labour,53,0.11800106200955808,0.0012359710045975845,0.004792265237009172
+uk.org.publicwhip/person/25166,Stephen Doughty,Labour,Labour,120,0.16003894035046315,0.001548806353072321,0.001103344095257842
+uk.org.publicwhip/person/25168,Sarah Champion,Labour,Labour,114,0.1334887013983126,0.001365639695627069,0.0014612521351065827
+uk.org.publicwhip/person/25169,Andy McDonald,Labour,Labour,99,0.1143135288217594,0.0011606212175453254,0.0
+uk.org.publicwhip/person/25170,Steve Reed,Labour,Labour,58,0.0737506637559738,0.0008798865248015045,9.87332523720664e-06
+uk.org.publicwhip/person/25181,Emma Lewell,Labour,Labour,117,0.137913741223671,0.0013469132444654149,0.0
+uk.org.publicwhip/person/25220,Mike Kane,Labour,Labour,74,0.0737506637559738,0.0008882924597264628,2.46833130930166e-06
+uk.org.publicwhip/person/25227,Robert Jenrick,Conservative,Conservative,442,0.909345684111157,0.007930479742591848,0.03863884692725664
+uk.org.publicwhip/person/25268,Alan Brown,Scottish National Party,Scottish National Party,184,0.28984010856097703,0.0026420068055980905,0.002547317911199313
+uk.org.publicwhip/person/25269,Mhairi Black,Scottish National Party,Scottish National Party,33,0.04941294471650245,0.0006264441353607997,0.0
+uk.org.publicwhip/person/25270,Chris Law,Scottish National Party,Scottish National Party,40,0.06047554427989852,0.000695745582039662,0.0
+uk.org.publicwhip/person/25271,John McNally,Scottish National Party,Scottish National Party,35,0.03466281196530769,0.0004922625401945876,0.0
+uk.org.publicwhip/person/25272,Suella Braverman,Conservative,Conservative,516,0.8348575137176235,0.007405336569856768,0.028197805488910613
+uk.org.publicwhip/person/25273,Peter Grant,Scottish National Party,Scottish National Party,143,0.1725765531889787,0.0016342696196197778,0.0
+uk.org.publicwhip/person/25275,Martin Docherty,Scottish National Party,Scottish National Party,163,0.19912679214112927,0.0018381243941741668,0.0
+uk.org.publicwhip/person/25276,Lisa Cameron,Conservative,Conservative,43,0.04277538497846481,0.0005556193210143414,0.0
+uk.org.publicwhip/person/25277,Marion Fellows,Scottish National Party,Scottish National Party,153,0.22051448463036166,0.0019973496683618123,0.0048527393540870635
+uk.org.publicwhip/person/25278,Owen Thompson,Scottish National Party,Scottish National Party,92,0.09292583633252699,0.0009967960183739095,0.0
+uk.org.publicwhip/person/25279,Nick Thomas-Symonds,Labour,Labour,16,0.02950026550238952,0.0004974483463312774,0.0
+uk.org.publicwhip/person/25280,Gavin Robinson,DUP,Other,77,0.12095108855979704,0.0012761590098212304,0.0
+uk.org.publicwhip/person/25281,John Nicolson,Scottish National Party,Scottish National Party,33,0.039087851790666116,0.0005723009128813585,0.0
+uk.org.publicwhip/person/25284,Rupa Huq,Labour,Labour,95,0.1143135288217594,0.0011495690495793552,0.0
+uk.org.publicwhip/person/25285,Alan Mak,Conservative,Conservative,21,0.019175172576553188,0.00045437564645122266,0.0
+uk.org.publicwhip/person/25287,Margaret Ferrier,Independent,Other,120,0.15930143371290342,0.001550494872506133,0.0
+uk.org.publicwhip/person/25288,Ronnie Cowan,Scottish National Party,Scottish National Party,70,0.07301315711841407,0.000845833165818104,1.110749089185747e-05
+uk.org.publicwhip/person/25289,Gerald Jones,Labour,Labour,73,0.09440084960764647,0.0009637422472364995,7.40499392790498e-06
+uk.org.publicwhip/person/25290,Craig Tracey,Conservative,Conservative,20,0.019912679214112928,0.00037350670040260436,0.0
+uk.org.publicwhip/person/25291,Gavin Newlands,Scottish National Party,Scottish National Party,162,0.25665230987078885,0.0023271969720289588,0.013113215774940843
+uk.org.publicwhip/person/25292,James Davies,Conservative,Conservative,109,0.12758864829783467,0.0015188030128538586,0.0005245204032266027
+uk.org.publicwhip/person/25294,Kirsten Oswald,Scottish National Party,Scottish National Party,164,0.22420201781816038,0.002063529765900567,0.0022400106631912564
+uk.org.publicwhip/person/25295,Angela Crawley,Scottish National Party,Scottish National Party,24,0.023600212401911617,0.0004434089211286708,0.0
+uk.org.publicwhip/person/25297,Stephen Kinnock,Labour,Labour,193,0.320815387338486,0.002869245212871756,0.006578514327840473
+uk.org.publicwhip/person/25298,Kate Hollern,Labour,Labour,50,0.047937931441382975,0.0006048173885014397,0.0
+uk.org.publicwhip/person/25299,Patrick Grady,Scottish National Party,Scottish National Party,221,0.3525281727535548,0.003001296885851987,0.0048157143844475385
+uk.org.publicwhip/person/25300,Patricia Gibson,Scottish National Party,Scottish National Party,163,0.23895215056935512,0.0021301545676100557,0.0026460511635713795
+uk.org.publicwhip/person/25301,Stuart McDonald,Scottish National Party,Scottish National Party,102,0.14233878104902944,0.0013431575593049448,0.0005467353850103177
+uk.org.publicwhip/person/25302,Liz Saville-Roberts,Plaid Cymru,Other,112,0.15561390052510474,0.001596485419565121,0.00538384197413847
+uk.org.publicwhip/person/25304,Jo Stevens,Labour,Labour,12,0.03761283851554664,0.0006360302690752917,0.0019697283848227245
+uk.org.publicwhip/person/25305,Douglas Chapman,Scottish National Party,Scottish National Party,29,0.02655023895215057,0.0004419995934065341,0.0
+uk.org.publicwhip/person/25306,Chris Stephens,Scottish National Party,Scottish National Party,239,0.3569532125789132,0.003088909274534967,0.005595089995359538
+uk.org.publicwhip/person/25307,Martyn Day,Scottish National Party,Scottish National Party,65,0.07743819694377249,0.0008633587878568739,0.0
+uk.org.publicwhip/person/25308,Carolyn Harris,Labour,Labour,46,0.04867543807894271,0.0006294232021625385,0.0
+uk.org.publicwhip/person/25309,Peter Dowd,Labour,Labour,72,0.06711310401793616,0.0007820569320076146,2.46833130930166e-06
+uk.org.publicwhip/person/25310,Helen Hayes,Labour,Labour,110,0.12537612838515547,0.0012860713425378789,1.604415351046079e-05
+uk.org.publicwhip/person/25314,Kirsty Blackman,Scottish National Party,Scottish National Party,141,0.1799516195645761,0.0018299129623030428,0.00037271802770455064
+uk.org.publicwhip/person/25316,Michelle Donelan,Conservative,Conservative,193,0.22125199126792142,0.002209006279716056,0.0004533501838084049
+uk.org.publicwhip/person/25318,Philippa Whitford,Scottish National Party,Scottish National Party,81,0.11210100890908019,0.00116408239432867,3.949330094882656e-05
+uk.org.publicwhip/person/25319,Colleen Fletcher,Labour,Labour,10,0.00737506637559738,0.00029468463704416934,0.0
+uk.org.publicwhip/person/25320,Wes Streeting,Labour,Labour,122,0.2035518319664877,0.0019875378397246697,0.010685406237966886
+uk.org.publicwhip/person/25321,Marie Rimmer,Labour,Labour,69,0.06637559738037642,0.0007704848721930823,3.70249696395249e-06
+uk.org.publicwhip/person/25322,Stewart McDonald,Scottish National Party,Scottish National Party,33,0.04498790489114402,0.0005827443846528425,0.0
+uk.org.publicwhip/person/25323,Oliver Dowden,Conservative,Conservative,388,0.5413298719688477,0.0050341522439199225,0.006300827055544038
+uk.org.publicwhip/person/25326,Neil Coyle,Labour,Labour,59,0.06711310401793616,0.00077390538025222,0.0
+uk.org.publicwhip/person/25327,Alison Thewliss,Scottish National Party,Scottish National Party,262,0.46610419493775446,0.003974023267159594,0.013297312151759593
+uk.org.publicwhip/person/25328,Catherine West,Labour,Labour,120,0.14676382087438786,0.001436131087572942,0.0
+uk.org.publicwhip/person/25330,Mims Davies,Conservative,Conservative,236,0.320815387338486,0.00321045003771059,0.0023091239398517027
+uk.org.publicwhip/person/25331,Paul Scully,Conservative,Conservative,91,0.10251342262080358,0.001159759410875757,0.00022585231480110184
+uk.org.publicwhip/person/25332,Christina Rees,Independent,Other,18,0.016962652663873975,0.0003808721358308859,0.0
+uk.org.publicwhip/person/25335,Caroline Ansell,Conservative,Conservative,45,0.05015045135406219,0.0006403676799227385,0.0
+uk.org.publicwhip/person/25336,Deidre Brock,Scottish National Party,Scottish National Party,123,0.21977697799280194,0.0019491126900499523,0.004607551777363099
+uk.org.publicwhip/person/25337,Lucy Allan,Conservative,Conservative,6,0.004425039825358428,0.00027680059654490674,0.0
+uk.org.publicwhip/person/25338,Kevin Foster,Conservative,Conservative,117,0.16520148681338132,0.0015194680698037847,7.40499392790498e-05
+uk.org.publicwhip/person/25340,Alex Chalk,Conservative,Conservative,393,0.5841052569473125,0.005528145897423392,0.013136047839551886
+uk.org.publicwhip/person/25341,Tommy Sheppard,Scottish National Party,Scottish National Party,58,0.07006313056817512,0.0008278161494162458,0.0
+uk.org.publicwhip/person/25342,Wendy Morton,Conservative,Conservative,73,0.08112573013157118,0.0008764497115941411,0.0
+uk.org.publicwhip/person/25343,Ruth Cadbury,Labour,Labour,131,0.1629889669007021,0.0015731935459605167,0.0
+uk.org.publicwhip/person/25344,Tulip Siddiq,Labour,Labour,93,0.10177591598324386,0.0010801415932072509,9.256242409881225e-05
+uk.org.publicwhip/person/25345,Royston Smith,Conservative,Conservative,3,0.002950026550238952,0.00026085275818032717,0.0
+uk.org.publicwhip/person/25346,Kit Malthouse,Conservative,Conservative,131,0.14381379432414892,0.0014487328205466416,0.0005862286859591442
+uk.org.publicwhip/person/25349,Margaret Greenwood,Labour,Labour,118,0.13053867484807363,0.0013644585455961705,8.63915958255581e-06
+uk.org.publicwhip/person/25350,Amanda Milling,Conservative,Conservative,19,0.01843766593899345,0.00038218527927777403,0.0
+uk.org.publicwhip/person/25353,Keir Starmer,Labour,Labour,7,0.40194111747005723,0.0032687496087786113,0.0
+uk.org.publicwhip/person/25354,Nusrat Ghani,Conservative,Conservative,285,0.4439789958109623,0.004205698075551541,0.0041805304608539115
+uk.org.publicwhip/person/25356,Clive Lewis,Labour,Labour,38,0.03318779869018821,0.0005538265287106943,0.0
+uk.org.publicwhip/person/25357,Louise Haigh,Labour,Labour,25,0.06268806419257773,0.0007618102176372195,0.0003233514015185174
+uk.org.publicwhip/person/25359,Chris Green,Conservative,Conservative,44,0.0368753318779869,0.000550276423004224,0.0
+uk.org.publicwhip/person/25360,William Wragg,Conservative,Conservative,31,0.03466281196530769,0.0005339331102938383,0.0
+uk.org.publicwhip/person/25361,Ian Blackford,Scottish National Party,Scottish National Party,122,0.1416012744114697,0.001401784491353778,2.221498178371494e-05
+uk.org.publicwhip/person/25364,Jess Phillips,Labour,Labour,74,0.10693846244616202,0.0011035456427649676,2.46833130930166e-06
+uk.org.publicwhip/person/25365,Kate Osamor,Labour,Labour,27,0.03540031860286742,0.0004957001659118904,0.0
+uk.org.publicwhip/person/25366,Jeff Smith,Labour,Labour,123,0.15782642043778394,0.0015183384771330901,5.923995142323984e-05
+uk.org.publicwhip/person/25367,Johnny Mercer,Conservative,Conservative,222,0.28984010856097703,0.0027369744237450123,0.0015353020743856325
+uk.org.publicwhip/person/25368,Rebecca Long-Bailey,Labour,Labour,66,0.06268806419257773,0.0007511205740431789,0.0
+uk.org.publicwhip/person/25370,Brendan O'Hara,Scottish National Party,Scottish National Party,69,0.09735087615788542,0.0010339945595919224,0.0
+uk.org.publicwhip/person/25371,Maggie Throup,Conservative,Conservative,82,0.09513835624520621,0.0009977691956186481,0.0
+uk.org.publicwhip/person/25373,Luke Hall,Conservative,Conservative,47,0.04277538497846481,0.0006116986418903226,0.0
+uk.org.publicwhip/person/25374,Thomas Tugendhat,Conservative,Conservative,195,0.2868900820107381,0.0026855019640050315,0.0026699116995612957
+uk.org.publicwhip/person/25375,Imran Hussain,Labour,Labour,94,0.1261136350227152,0.001279786551467201,6.911327666044648e-05
+uk.org.publicwhip/person/25376,James Cleverly,Conservative,Conservative,561,0.9956339607056464,0.008744159463756078,0.01891729115448792
+uk.org.publicwhip/person/25377,Chris Philp,Conservative,Conservative,443,0.6962062658563927,0.006375790832058263,0.018223895750849928
+uk.org.publicwhip/person/25378,Justin Madders,Labour,Labour,214,0.29942769484925363,0.002638488610409378,0.0037691419093036347
+uk.org.publicwhip/person/25379,Matthew Pennycook,Labour,Labour,63,0.07743819694377249,0.0008930041646746716,0.0
+uk.org.publicwhip/person/25380,Vicky Foxcroft,Labour,Labour,76,0.09366334297008673,0.0010163345237517434,1.2341656546508299e-05
+uk.org.publicwhip/person/25381,Nigel Huddleston,Conservative,Conservative,218,0.33040297362676263,0.003171471857490011,0.012165582246444782
+uk.org.publicwhip/person/25382,Drew Hendry,Scottish National Party,Scottish National Party,130,0.1961767655908903,0.0018876817791374356,0.0029875036613581088
+uk.org.publicwhip/person/25384,Marcus Fysh,Conservative,Conservative,19,0.015487639388754498,0.00037050507027683506,0.0
+uk.org.publicwhip/person/25385,Naseem Shah,Labour,Labour,39,0.04425039825358428,0.0006334225375990799,0.0
+uk.org.publicwhip/person/25386,Daniel Zeichner,Labour,Labour,94,0.12316360847247625,0.0012208963595669343,7.651827058835145e-05
+uk.org.publicwhip/person/25387,Tom Pursglove,Conservative,Conservative,307,0.4181662634963715,0.003833091343279929,0.0006861961039858614
+uk.org.publicwhip/person/25388,Julian Knight,Independent,Other,4,0.002950026550238952,0.00026779214817590914,0.0
+uk.org.publicwhip/person/25390,Karin Smyth,Labour,Labour,89,0.1047259425334828,0.0011170492583581063,3.70249696395249e-06
+uk.org.publicwhip/person/25391,Richard Burgon,Labour,Labour,136,0.1821641394772553,0.001696206972818826,0.0
+uk.org.publicwhip/person/25392,Flick Drummond,Conservative,Conservative,108,0.12832615493539443,0.0012710464190831571,0.0
+uk.org.publicwhip/person/25393,Judith Cummins,Labour,Labour,78,0.07596318366865301,0.0008580501214732908,0.0
+uk.org.publicwhip/person/25395,Matt Warman,Conservative,Conservative,50,0.0523629712667414,0.0006694723362850272,0.0
+uk.org.publicwhip/person/25396,Edward Argar,Conservative,Conservative,183,0.2345271107439967,0.002410341855736751,0.0016636553024693187
+uk.org.publicwhip/person/25397,Maria Caulfield,Conservative,Conservative,268,0.385715971443743,0.003946140449592331,0.005705547821450787
+uk.org.publicwhip/person/25398,Helen Whately,Conservative,Conservative,180,0.2072393651542864,0.0021752891529112643,0.00023202314307435603
+uk.org.publicwhip/person/25399,Lucy Frazer,Conservative,Conservative,327,0.42037878340905066,0.003908646357868934,0.005782888869142239
+uk.org.publicwhip/person/25402,Thangam Debbonaire,Labour,Labour,108,0.17036403327629948,0.001485308116286162,0.005408113898679937
+uk.org.publicwhip/person/25403,Will Quince,Conservative,Conservative,136,0.14676382087438786,0.0017000735032423216,1.851248481976245e-05
+uk.org.publicwhip/person/25404,Joanna Cherry,Scottish National Party,Scottish National Party,168,0.3112278010502095,0.0028262028280746404,0.006099246665284401
+uk.org.publicwhip/person/25405,Mary Robinson,Conservative,Conservative,78,0.07448817039353355,0.0008325680120043544,0.0
+uk.org.publicwhip/person/25406,Carol Monaghan,Scottish National Party,Scottish National Party,90,0.11505103545931913,0.001230486102920993,6.911327666044648e-05
+uk.org.publicwhip/person/25407,Rebecca Pow,Conservative,Conservative,222,0.2905776151985368,0.0028174201356356275,0.002202162916448631
+uk.org.publicwhip/person/25408,Jo Churchill,Conservative,Conservative,93,0.09366334297008673,0.0011437379203006399,1.974665047441328e-05
+uk.org.publicwhip/person/25409,Hannah Bardell,Scottish National Party,Scottish National Party,99,0.10251342262080358,0.0010932639498854356,0.0
+uk.org.publicwhip/person/25410,Steve Double,Conservative,Conservative,83,0.09218832969496725,0.0009563704338860973,3.291108412402213e-06
+uk.org.publicwhip/person/25413,Alberto Costa,Conservative,Conservative,21,0.023600212401911617,0.0004256061392066417,0.0
+uk.org.publicwhip/person/25414,James Cartlidge,Conservative,Conservative,382,0.5981178830609476,0.005452826342299062,0.0065896218187323306
+uk.org.publicwhip/person/25415,Kevin Hollinrake,Conservative,Conservative,461,1.0752846775620981,0.009473644583658448,0.09231168277664237
+uk.org.publicwhip/person/25417,Jeremy Quin,Conservative,Conservative,343,0.41226621039589356,0.0037992532933293945,0.0006220194899440183
+uk.org.publicwhip/person/25418,Peter Kyle,Labour,Labour,46,0.06858811729305564,0.0008556133916536735,0.0
+uk.org.publicwhip/person/25419,Ranil Jayawardena,Conservative,Conservative,45,0.04425039825358428,0.0006125989736714084,0.0
+uk.org.publicwhip/person/25420,Victoria Prentis,Conservative,Conservative,106,0.15561390052510474,0.0017323693066155993,0.0044281863688871775
+uk.org.publicwhip/person/25422,Michael Tomlinson,Conservative,Conservative,176,0.2942651483863355,0.0027264182238721448,0.0012333428775477295
+uk.org.publicwhip/person/25423,Conor McGinn,Independent,Other,20,0.01770015930143371,0.00040170238171825454,0.0
+uk.org.publicwhip/person/25424,Victoria Atkins,Conservative,Conservative,414,0.568617617558558,0.005247540439906611,0.004222903481663589
+uk.org.publicwhip/person/25426,Huw Merriman,Conservative,Conservative,319,0.47937931441382975,0.004753476354523574,0.00878849362676856
+uk.org.publicwhip/person/25427,Simon Hoare,Conservative,Conservative,191,0.24927724349519145,0.0024582640691323634,0.0006384750320060294
+uk.org.publicwhip/person/25428,Rishi Sunak,Conservative,Conservative,886,2.6033984305858753,0.022862597732095816,0.18643285809727853
+uk.org.publicwhip/person/25429,Angela Rayner,Labour,Labour,113,0.18658917930261373,0.0017897979779417964,0.001400778018028692
+uk.org.publicwhip/person/25430,Kelly Tolhurst,Conservative,Conservative,28,0.03171278541506874,0.0004910992297823704,0.0
+uk.org.publicwhip/person/25431,Andrea Jenkyns,Conservative,Conservative,36,0.028025252227270047,0.0005279848412929125,0.0
+uk.org.publicwhip/person/25432,Cat Smith,Labour,Labour,122,0.1511888606997463,0.0014705895451580936,0.00015077390414317639
+uk.org.publicwhip/person/25433,Rachael Maskell,Labour,Labour,206,0.3119653076877692,0.0027929727315409813,0.005414284726953191
+uk.org.publicwhip/person/25434,Holly Lynch,Labour,Labour,83,0.0988258894330049,0.0010123945001388357,0.0
+uk.org.publicwhip/person/25436,Amanda Solloway,Conservative,Conservative,231,0.2750899758097823,0.00289711335443971,0.00043627755891906836
+uk.org.publicwhip/person/25437,Craig Mackinlay,Conservative,Conservative,46,0.047937931441382975,0.000634661961821032,0.0
+uk.org.publicwhip/person/25438,James Heappey,Conservative,Conservative,226,0.3259779338014042,0.0032610508584539942,0.002936902869517425
+uk.org.publicwhip/person/25439,Anne-Marie Trevelyan,Conservative,Conservative,279,0.3680158121423093,0.0034842513009949463,0.006001747578566986
+uk.org.publicwhip/person/25440,Derek Thomas,Conservative,Conservative,38,0.03613782524042716,0.0005367414230998733,0.0
+uk.org.publicwhip/person/25447,Claire Hanna,Social Democratic and Labour Party,Other,59,0.07891321021889197,0.0008823152685354391,0.0
+uk.org.publicwhip/person/25475,Jim McMahon,Labour,Labour,125,0.17331405982653844,0.0018016289464132687,0.00578659136610619
+uk.org.publicwhip/person/25489,Gill Furniss,Labour,Labour,37,0.03540031860286742,0.0005287317277926807,0.0
+uk.org.publicwhip/person/25490,Chris Elmore,Labour,Labour,93,0.1143135288217594,0.00111531302535875,0.0
+uk.org.publicwhip/person/25531,Douglas Ross,Conservative,Conservative,78,0.13127618148563336,0.0012982486977071424,0.0007281577362439897
+uk.org.publicwhip/person/25562,Carla Lockhart,DUP,Other,62,0.06858811729305564,0.0007989887417683595,0.0
+uk.org.publicwhip/person/25579,Rosena Allin-Khan,Labour,Labour,45,0.04425039825358428,0.0006090462145561655,0.0
+uk.org.publicwhip/person/25593,Robert Courts,Conservative,Conservative,73,0.07817570358133223,0.0009716262322730774,5.923995142323984e-05
+uk.org.publicwhip/person/25596,Sarah Olney,Liberal Democrat,Liberal Democrat,92,0.09808838279544516,0.0010476417420729467,7.40499392790498e-06
+uk.org.publicwhip/person/25597,Dr Caroline Johnson,Conservative,Conservative,107,0.11357602218419965,0.0012219721566780726,7.775243624300229e-05
+uk.org.publicwhip/person/25600,Trudy Harrison,Conservative,Conservative,118,0.12906366157295415,0.0014293547209313863,4.93666261860332e-06
+uk.org.publicwhip/person/25614,Vicky Ford,Conservative,Conservative,186,0.2891026019234173,0.0026212138699992526,0.0032018370967158032
+uk.org.publicwhip/person/25617,Stephanie Peacock,Labour,Labour,91,0.11947607528467756,0.0012559661964763632,0.0
+uk.org.publicwhip/person/25618,Anneliese Dodds,Labour,Labour,34,0.054575491179420614,0.000730633039855551,4.689829487673154e-05
+uk.org.publicwhip/person/25620,Marsha de Cordova,Labour,Labour,77,0.11062599563396071,0.0011196898482019651,2.4683313093016598e-05
+uk.org.publicwhip/person/25623,Liz Twist,Labour,Labour,193,0.25296477668299017,0.002233618858659958,0.0024041546952598167
+uk.org.publicwhip/person/25628,Leo Docherty,Conservative,Conservative,367,0.49707947371526345,0.004638655375397062,0.002234251223469552
+uk.org.publicwhip/person/25629,Paul Girvan,DUP,Other,34,0.038350345153106376,0.0005578220879178291,0.0
+uk.org.publicwhip/person/25630,Damien Moore,Conservative,Conservative,31,0.03171278541506874,0.0004709085209481258,0.0
+uk.org.publicwhip/person/25634,Tonia Antoniazzi,Labour,Labour,109,0.11578854209687887,0.001158487401425348,0.0
+uk.org.publicwhip/person/25637,Darren Jones,Labour,Labour,92,0.11136350227152045,0.0011803185112005494,6.17082827325415e-05
+uk.org.publicwhip/person/25642,Dan Carden,Labour,Labour,85,0.08038822349401145,0.0008927071718476621,0.0
+uk.org.publicwhip/person/25644,Giles Watling,Conservative,Conservative,48,0.047200424803823235,0.0005703193766764314,0.0
+uk.org.publicwhip/person/25645,Bob Seely,Conservative,Conservative,133,0.17331405982653844,0.0016360316868979923,0.0
+uk.org.publicwhip/person/25646,Emma Hardy,Labour,Labour,123,0.15930143371290342,0.0015735388075000041,1.727831916511162e-05
+uk.org.publicwhip/person/25647,Anna McMorrin,Labour,Labour,65,0.0737506637559738,0.0008729402239554187,0.0
+uk.org.publicwhip/person/25648,Wera Hobhouse,Liberal Democrat,Liberal Democrat,268,0.4130037170334533,0.003645299988433612,0.019066213810149123
+uk.org.publicwhip/person/25649,Mohammad Yasin,Labour,Labour,90,0.09366334297008673,0.0009640184776165485,0.0
+uk.org.publicwhip/person/25652,Julia Lopez,Conservative,Conservative,251,0.30016520148681336,0.0029962739535072144,0.006209087408548326
+uk.org.publicwhip/person/25656,Rosie Duffield,Labour,Labour,36,0.03318779869018821,0.0005138190697023886,0.0
+uk.org.publicwhip/person/25657,Simon Clarke,Conservative,Conservative,94,0.10030090270812438,0.0010519924963453178,0.0
+uk.org.publicwhip/person/25658,Stephen Morgan,Labour,Labour,81,0.08850079650716856,0.0009755960972036842,7.40499392790498e-05
+uk.org.publicwhip/person/25659,Alex Burghart,Conservative,Conservative,203,0.2891026019234173,0.002860796068182536,0.004703405309874313
+uk.org.publicwhip/person/25661,Bim Afolami,Conservative,Conservative,193,0.19322673904065138,0.0019615408428754,0.00016044153510460789
+uk.org.publicwhip/person/25662,Afzal Khan,Labour,Labour,91,0.11210100890908019,0.0011015260776787278,0.0015698587127158557
+uk.org.publicwhip/person/25664,David Duguid,Conservative,Conservative,144,0.2035518319664877,0.0018981734067705508,0.0034815813117699914
+uk.org.publicwhip/person/25666,Preet Kaur Gill,Labour,Labour,36,0.05015045135406219,0.0006287453683475512,0.0011625840466810819
+uk.org.publicwhip/person/25667,Lloyd Russell-Moyle,Labour,Labour,182,0.20060180541624875,0.0019329725347274065,0.00035297137723013736
+uk.org.publicwhip/person/25668,Jamie Stone,Liberal Democrat,Liberal Democrat,157,0.19543925895333059,0.0018498869225609753,0.00013082155939298797
+uk.org.publicwhip/person/25669,Ben Lake,Plaid Cymru,Other,67,0.05826302436721931,0.000711884607508674,0.0
+uk.org.publicwhip/person/25670,Gillian Keegan,Conservative,Conservative,387,0.5730426573839165,0.005487860114321647,0.021029154283871265
+uk.org.publicwhip/person/25673,Sarah Jones,Labour,Labour,101,0.10988848899640097,0.0011850151612404606,0.0
+uk.org.publicwhip/person/25674,Alister Jack,Conservative,Conservative,196,0.27435246917222256,0.0028022473839768767,0.002638029086816149
+uk.org.publicwhip/person/25675,Christine Jardine,Liberal Democrat,Liberal Democrat,223,0.31491533423800816,0.0027636638272369135,0.009684497892045063
+uk.org.publicwhip/person/25676,Bambos Charalambous,Independent,Other,37,0.03318779869018821,0.0005408379115430027,0.0
+uk.org.publicwhip/person/25677,David Linden,Scottish National Party,Scottish National Party,150,0.23231459083131747,0.0021568770249238934,0.0040690441633837865
+uk.org.publicwhip/person/25679,Neil O'Brien,Conservative,Conservative,224,0.2500147501327512,0.002553898326111363,9.091686989261113e-05
+uk.org.publicwhip/person/25680,Alex Sobel,Labour,Labour,137,0.15413888724998526,0.001502104929488858,2.46833130930166e-06
+uk.org.publicwhip/person/25681,Ellie Reeves,Labour,Labour,49,0.053837984541860874,0.0006699270166279765,0.0
+uk.org.publicwhip/person/25683,Ben Bradley,Conservative,Conservative,54,0.04498790489114402,0.0006115648582919368,0.0
+uk.org.publicwhip/person/25685,Lee Rowley,Conservative,Conservative,271,0.39382854445690013,0.0036820784208230644,0.00655835628881451
+uk.org.publicwhip/person/25686,Andrew Lewer,Conservative,Conservative,49,0.045725411528703755,0.0005906152712650581,0.0
+uk.org.publicwhip/person/25687,Alex Norris,Labour,Labour,90,0.0988258894330049,0.0010290032038406797,0.0001073724119546222
+uk.org.publicwhip/person/25689,Layla Moran,Liberal Democrat,Liberal Democrat,125,0.15561390052510474,0.001500735813024868,0.0
+uk.org.publicwhip/person/25690,Luke Pollard,Labour,Labour,113,0.13643872794855152,0.0013757369368012358,3.70249696395249e-06
+uk.org.publicwhip/person/25691,Matt Rodda,Labour,Labour,155,0.1666765000885008,0.0016406404488624668,4.196163225812822e-05
+uk.org.publicwhip/person/25692,Rachel Maclean,Conservative,Conservative,294,0.3473656262906366,0.0033142358035567936,0.001885805120306468
+uk.org.publicwhip/person/25693,Kemi Badenoch,Conservative,Conservative,396,0.5531299781698036,0.005126883858233518,0.007066421149979103
+uk.org.publicwhip/person/25695,Tan Dhesi,Labour,Labour,177,0.27361496253466283,0.002521064559822539,0.006075797517846036
+uk.org.publicwhip/person/25698,Jack Brereton,Conservative,Conservative,121,0.15045135406218657,0.001517961836988029,8.63915958255581e-06
+uk.org.publicwhip/person/25699,Eddie Hughes,Conservative,Conservative,59,0.05678801109209983,0.0007002215532807976,0.0
+uk.org.publicwhip/person/25701,Matt Western,Labour,Labour,182,0.22567703109327983,0.0021156341039222644,0.005200774068698597
+uk.org.publicwhip/person/25702,Mike Amesbury,Labour,Labour,156,0.1917517257655319,0.0018727739505137817,9.873325237206639e-05
+uk.org.publicwhip/person/25703,Andrew Bowie,Conservative,Conservative,233,0.3178653607882471,0.0031840767841446703,0.0055298849099388175
+uk.org.publicwhip/person/25727,Janet Daby,Labour,Labour,142,0.15635140716266446,0.001511772927019445,0.0
+uk.org.publicwhip/person/25746,Ruth Jones,Labour,Labour,115,0.11947607528467756,0.0011982674147956714,4.93666261860332e-06
+uk.org.publicwhip/person/25750,Gareth Bacon,Conservative,Conservative,94,0.09513835624520621,0.0010502232565060025,0.0
+uk.org.publicwhip/person/25759,Florence Eshalomi,Labour,Labour,168,0.21240191161720456,0.002027212665845236,0.0
+uk.org.publicwhip/person/25791,Ian Levy,Conservative,Conservative,44,0.04351289161602454,0.0005465357604808261,0.0
+uk.org.publicwhip/person/25792,Mark Jenkinson,Conservative,Conservative,26,0.022862705764351877,0.0004516728916029573,0.0
+uk.org.publicwhip/person/25793,Peter Gibson,Conservative,Conservative,164,0.1976517788660098,0.0018751783690186704,0.003020003356930581
+uk.org.publicwhip/person/25794,Kate Osborne,Labour,Labour,80,0.07965071685645171,0.000869091749409014,0.0
+uk.org.publicwhip/person/25795,Paul Bristow,Conservative,Conservative,100,0.09735087615788542,0.0010477191389082216,0.0
+uk.org.publicwhip/person/25796,Dave Doogan,Scottish National Party,Scottish National Party,163,0.24558971030739277,0.002312687867300377,0.00328658313833516
+uk.org.publicwhip/person/25797,Claudia Webbe,Independent,Other,38,0.02950026550238952,0.00048712072038971843,0.0
+uk.org.publicwhip/person/25798,Mick Whitley,Labour,Labour,75,0.07227565048085433,0.0008131834793417621,0.0
+uk.org.publicwhip/person/25799,Simon Baynes,Conservative,Conservative,108,0.10693846244616202,0.0011104475734553503,1.23416565465083e-06
+uk.org.publicwhip/person/25800,Scott Benton,Independent,Other,123,0.14602631423682813,0.0013908169063574156,0.0
+uk.org.publicwhip/person/25801,James Murray,Labour,Labour,103,0.16888902000118,0.001670556479817098,0.004880713775592483
+uk.org.publicwhip/person/25802,Cherilyn Mackrory,Conservative,Conservative,67,0.07227565048085433,0.0008667555185462385,2.46833130930166e-06
+uk.org.publicwhip/person/25803,Kim Johnson,Labour,Labour,95,0.1143135288217594,0.0011440238055075605,0.0
+uk.org.publicwhip/person/25804,Holly Mumby-Croft,Conservative,Conservative,79,0.10693846244616202,0.0011138639952930492,6.417661404184316e-05
+uk.org.publicwhip/person/25805,Luke Evans,Conservative,Conservative,155,0.2441146970322733,0.0021544796141376166,0.0005627795385207784
+uk.org.publicwhip/person/25806,Jacob Young,Conservative,Conservative,210,0.23157708419375775,0.002332906327255197,0.0012131848385217659
+uk.org.publicwhip/person/25807,Jane Stevenson,Conservative,Conservative,65,0.05973803764233878,0.0007405364466224586,0.0
+uk.org.publicwhip/person/25808,Paul Holmes,Conservative,Conservative,80,0.0737506637559738,0.0008506656280161979,0.0
+uk.org.publicwhip/person/25809,Rachel Hopkins,Labour,Labour,152,0.18806419257773319,0.0017591427434752018,4.566412922208071e-05
+uk.org.publicwhip/person/25810,Sarah Atherton,Conservative,Conservative,46,0.06637559738037642,0.0007914975355194486,7.40499392790498e-06
+uk.org.publicwhip/person/25811,Tom Hunt,Conservative,Conservative,129,0.17331405982653844,0.0016272093188944528,2.46833130930166e-06
+uk.org.publicwhip/person/25812,James Grundy,Conservative,Conservative,31,0.028762758864829784,0.00046281270753224297,0.0
+uk.org.publicwhip/person/25813,Fleur Anderson,Labour,Labour,135,0.17110153991385924,0.0016121572820109423,0.0
+uk.org.publicwhip/person/25814,Shaun Bailey,Conservative,Conservative,45,0.03761283851554664,0.000535686969825447,0.0
+uk.org.publicwhip/person/25815,Dehenna Davison,Conservative,Conservative,133,0.13938875449879048,0.0015130283170549173,1.851248481976245e-05
+uk.org.publicwhip/person/25816,Ian Byrne,Labour,Labour,67,0.06342557083013747,0.0007280754177578898,0.0
+uk.org.publicwhip/person/25817,Nickie Aiken,Conservative,Conservative,167,0.21682695144256298,0.0020721077516045222,0.006219783510888633
+uk.org.publicwhip/person/25819,Paula Barker,Labour,Labour,72,0.08112573013157118,0.000916711051439568,0.0
+uk.org.publicwhip/person/25820,Munira Wilson,Liberal Democrat,Liberal Democrat,138,0.19912679214112927,0.0018800059707275395,0.00015427070683135375
+uk.org.publicwhip/person/25823,Sarah Owen,Labour,Labour,93,0.10177591598324386,0.001110975954372071,0.0
+uk.org.publicwhip/person/25824,Alex Davies-Jones,Labour,Labour,131,0.1489763407870671,0.0014794291905325955,9.87332523720664e-06
+uk.org.publicwhip/person/25825,Chris Clarkson,Conservative,Conservative,79,0.08260074340669066,0.0009057544903281863,4.93666261860332e-06
+uk.org.publicwhip/person/25826,Beth Winter,Labour,Labour,100,0.10398843589592306,0.0010654210251434479,0.0
+uk.org.publicwhip/person/25827,Angela Richardson,Conservative,Conservative,55,0.056050504454540094,0.000731315445484522,0.0
+uk.org.publicwhip/person/25828,Dean Russell,Conservative,Conservative,123,0.13053867484807363,0.0013152474471834457,0.0
+uk.org.publicwhip/person/25829,Jamie Wallis,Conservative,Conservative,13,0.01106259956339607,0.00033918194167238355,0.0
+uk.org.publicwhip/person/25830,Katherine Fletcher,Conservative,Conservative,89,0.08481326331936988,0.0009281901189981047,0.0
+uk.org.publicwhip/person/25831,Natalie Elphicke,Conservative,Conservative,77,0.07596318366865301,0.0008448972665151598,0.0
+uk.org.publicwhip/person/25832,Robin Millar,Conservative,Conservative,136,0.13717623458611128,0.0014416657538898303,2.46833130930166e-06
+uk.org.publicwhip/person/25833,Mary Foy,Labour,Labour,97,0.10767596908372175,0.001101184501603493,0.0
+uk.org.publicwhip/person/25834,Nicola Richards,Conservative,Conservative,66,0.08186323676913092,0.0008277535567876205,0.0
+uk.org.publicwhip/person/25835,Laura Farris,Conservative,Conservative,205,0.2632898696088265,0.00256177060732026,0.0004566412922208071
+uk.org.publicwhip/person/25836,Navendu Mishra,Labour,Labour,60,0.06711310401793616,0.0007916514002739053,0.0
+uk.org.publicwhip/person/25837,Tom Randall,Conservative,Conservative,64,0.07301315711841407,0.0008257042265539779,0.0
+uk.org.publicwhip/person/25838,Siobhan Baillie,Conservative,Conservative,130,0.14012626113635024,0.0013728453153519676,9.87332523720664e-06
+uk.org.publicwhip/person/25839,Kate Kniveton,Conservative,Conservative,25,0.025075225677031094,0.00044183290433525693,0.0
+uk.org.publicwhip/person/25841,Robert Largan,Conservative,Conservative,15,0.016962652663873975,0.0003862726884409127,0.0
+uk.org.publicwhip/person/25842,Antony Higginbotham,Conservative,Conservative,48,0.05310047790430114,0.0006383029600238104,0.0
+uk.org.publicwhip/person/25843,Virginia Crosbie,Conservative,Conservative,93,0.11873856864711782,0.0012013070630319752,4.319579791277905e-05
+uk.org.publicwhip/person/25844,Duncan Baker,Conservative,Conservative,132,0.14602631423682813,0.001412273750933534,2.46833130930166e-06
+uk.org.publicwhip/person/25845,Nadia Whittome,Labour,Labour,73,0.07153814384329459,0.0008146281849886459,0.0
+uk.org.publicwhip/person/25846,Abena Oppong-Asare,Labour,Labour,68,0.08850079650716856,0.0009821603185214882,7.40499392790498e-06
+uk.org.publicwhip/person/25847,Saqib Bhatti,Conservative,Conservative,108,0.11136350227152045,0.0012243587986854594,0.0
+uk.org.publicwhip/person/25848,Alyn Smith,Scottish National Party,Scottish National Party,58,0.07817570358133223,0.0008664554223444241,0.0
+uk.org.publicwhip/person/25850,Anthony Browne,Conservative,Conservative,109,0.13127618148563336,0.0014517682637119219,0.0005171154092986976
+uk.org.publicwhip/person/25851,Laura Trott,Conservative,Conservative,160,0.1976517788660098,0.0020116182027029505,0.0015192579208751717
+uk.org.publicwhip/person/25852,Rob Roberts,Independent,Other,90,0.09366334297008673,0.0009713389139928386,2.46833130930166e-06
+uk.org.publicwhip/person/25853,Matt Vickers,Conservative,Conservative,41,0.04277538497846481,0.0005629438930066124,0.0
+uk.org.publicwhip/person/25854,Ruth Edwards,Conservative,Conservative,27,0.022862705764351877,0.0004488208186484746,0.0
+uk.org.publicwhip/person/25855,Paul Howell,Conservative,Conservative,115,0.11357602218419965,0.001186612502178968,0.0
+uk.org.publicwhip/person/25856,Bell Ribeiro-Addy,Labour,Labour,32,0.028025252227270047,0.00048331147923688417,0.0
+uk.org.publicwhip/person/25858,Gareth Davies,Conservative,Conservative,125,0.13496371467343207,0.0015224578823110294,1.480998785580996e-05
+uk.org.publicwhip/person/25859,Nicholas Fletcher,Conservative,Conservative,95,0.1143135288217594,0.0011524274604809842,0.0
+uk.org.publicwhip/person/25860,James Sunderland,Conservative,Conservative,190,0.2596023364210278,0.002397050741163827,0.0009577125480090441
+uk.org.publicwhip/person/25861,Steven Bonnar,Scottish National Party,Scottish National Party,99,0.10693846244616202,0.0010609731343978115,0.0
+uk.org.publicwhip/person/25862,Brendan Clarke-Smith,Conservative,Conservative,63,0.056050504454540094,0.0007081040710538432,0.0
+uk.org.publicwhip/person/25863,Amy Callaghan,Scottish National Party,Scottish National Party,105,0.11873856864711782,0.0012058228360304823,0.0
+uk.org.publicwhip/person/25864,Alexander Stafford,Conservative,Conservative,173,0.20281432532892796,0.0019217992826154196,1.727831916511162e-05
+uk.org.publicwhip/person/25865,Lia Nici,Conservative,Conservative,121,0.11652604873443861,0.0012283056194493883,0.0
+uk.org.publicwhip/person/25866,James Wild,Conservative,Conservative,135,0.13938875449879048,0.0013653078653314886,0.0
+uk.org.publicwhip/person/25867,Stephen Flynn,Scottish National Party,Scottish National Party,48,0.18658917930261373,0.0017021025464602794,0.0017278319165111619
+uk.org.publicwhip/person/25868,Anthony Mangnall,Conservative,Conservative,139,0.15930143371290342,0.0016717106250576283,0.004211384602220181
+uk.org.publicwhip/person/25869,Simon Fell,Conservative,Conservative,83,0.08628827659448934,0.0009361378238314005,0.0
+uk.org.publicwhip/person/25870,Allan Dorans,Scottish National Party,Scottish National Party,67,0.056050504454540094,0.0007142788195463201,0.0
+uk.org.publicwhip/person/25871,Darren Henry,Conservative,Conservative,53,0.045725411528703755,0.0006220455332355612,0.0
+uk.org.publicwhip/person/25872,Wendy Chamberlain,Liberal Democrat,Liberal Democrat,152,0.1917517257655319,0.0017589646334445258,5.1834957495334856e-05
+uk.org.publicwhip/person/25873,Neale Hanvey,Alba,Other,124,0.19027671249041242,0.001696729064947945,0.0018376726597750857
+uk.org.publicwhip/person/25874,Christian Wakeford,Labour,Labour,83,0.09956339607056464,0.0009883597565288945,0.0
+uk.org.publicwhip/person/25875,Neil Hudson,Conservative,Conservative,102,0.09735087615788542,0.0010581096502154331,0.0
+uk.org.publicwhip/person/25876,Sara Britcliffe,Conservative,Conservative,87,0.09735087615788542,0.0010378420750002493,2.46833130930166e-06
+uk.org.publicwhip/person/25877,Sarah Dines,Conservative,Conservative,163,0.1666765000885008,0.0017964484036516557,2.221498178371494e-05
+uk.org.publicwhip/person/25879,Julie Marson,Conservative,Conservative,16,0.01475013275119476,0.00033313491697808554,0.0
+uk.org.publicwhip/person/25880,Selaine Saxby,Conservative,Conservative,190,0.24485220366983304,0.0021594252534719274,0.0
+uk.org.publicwhip/person/25881,Fay Jones,Conservative,Conservative,53,0.06047554427989852,0.0008539194628740158,0.0
+uk.org.publicwhip/person/25882,Jo Gideon,Conservative,Conservative,56,0.06490058410525695,0.0007427263020947454,0.0
+uk.org.publicwhip/person/25883,Kieran Mullan,Conservative,Conservative,98,0.10767596908372175,0.0010874850448429792,4.93666261860332e-06
+uk.org.publicwhip/person/25884,Andy Carter,Conservative,Conservative,104,0.11357602218419965,0.0011643403210370158,0.0
+uk.org.publicwhip/person/25885,Charlotte Nichols,Labour,Labour,93,0.10841347572128149,0.0011109660164338652,0.0
+uk.org.publicwhip/person/25886,Mark Logan,Conservative,Conservative,38,0.04425039825358428,0.0006021890322428982,0.0
+uk.org.publicwhip/person/25887,Gary Sambrook,Conservative,Conservative,25,0.025075225677031094,0.000432353199973209,0.0
+uk.org.publicwhip/person/25888,Tahir Ali,Labour,Labour,45,0.039825358428225856,0.0005730350489494449,0.0
+uk.org.publicwhip/person/25889,Ben Spencer,Conservative,Conservative,44,0.03392530532774795,0.0005333522497506219,0.0
+uk.org.publicwhip/person/25890,Claire Coutinho,Conservative,Conservative,284,0.39014101126910145,0.0037252060027992686,0.000544267053701016
+uk.org.publicwhip/person/25891,Felicity Buchan,Conservative,Conservative,124,0.14971384742462682,0.0016611381680681386,0.0029348459267596735
+uk.org.publicwhip/person/25892,David Simmonds,Conservative,Conservative,130,0.12390111511003599,0.0012576895589103173,9.256242409881225e-06
+uk.org.publicwhip/person/25893,Richard Holden,Conservative,Conservative,238,0.26992742934686415,0.002635118685468176,0.0011897356910834
+uk.org.publicwhip/person/25894,Lee Anderson,Reform UK,Other,59,0.06121305091745826,0.0007188017209306324,0.0
+uk.org.publicwhip/person/25895,Rob Butler,Conservative,Conservative,140,0.16003894035046315,0.0015459554953188796,0.0
+uk.org.publicwhip/person/25896,Feryal Clark,Labour,Labour,45,0.04425039825358428,0.0005984508768972816,0.0
+uk.org.publicwhip/person/25897,Miriam Cates,Conservative,Conservative,116,0.1202135819222373,0.0012806388623507483,2.7151644402318258e-05
+uk.org.publicwhip/person/25898,Jonathan Gullis,Conservative,Conservative,150,0.18806419257773319,0.0018036335588728217,0.0004541729609115054
+uk.org.publicwhip/person/25900,Theo Clarke,Conservative,Conservative,50,0.05162546462918166,0.0006496817755925857,0.0
+uk.org.publicwhip/person/25901,Daisy Cooper,Liberal Democrat,Liberal Democrat,75,0.10398843589592306,0.0011268059365407816,6.17082827325415e-05
+uk.org.publicwhip/person/25902,Sally-Ann Hart,Conservative,Conservative,91,0.08407575668181014,0.0009542343770046618,0.0
+uk.org.publicwhip/person/25903,Mark Fletcher,Conservative,Conservative,54,0.055312997816980354,0.0006770286548107706,0.0
+uk.org.publicwhip/person/25904,Jerome Mayhew,Conservative,Conservative,142,0.16593899345094107,0.001609909608144704,0.0009108142531323126
+uk.org.publicwhip/person/25905,James Daly,Conservative,Conservative,133,0.15782642043778394,0.0015193814404613568,9.87332523720664e-06
+uk.org.publicwhip/person/25906,Alicia Kearns,Conservative,Conservative,145,0.2249395244557201,0.002106556186433433,0.008287422370980324
+uk.org.publicwhip/person/25907,Elliot Colburn,Conservative,Conservative,102,0.11873856864711782,0.0011621279911450623,0.0
+uk.org.publicwhip/person/25908,Olivia Blake,Labour,Labour,65,0.05973803764233878,0.0007242896441581803,0.0
+uk.org.publicwhip/person/25909,Zarah Sultana,Labour,Labour,59,0.06342557083013747,0.0007342911362220556,0.0
+uk.org.publicwhip/person/25910,Ben Everitt,Conservative,Conservative,58,0.054575491179420614,0.0006839537123743364,0.0
+uk.org.publicwhip/person/25911,Simon Jupp,Conservative,Conservative,63,0.08186323676913092,0.0008543168273720712,2.4683313093016598e-05
+uk.org.publicwhip/person/25912,Sam Tarry,Labour,Labour,72,0.06563809074281668,0.0007793980171740112,0.0
+uk.org.publicwhip/person/25913,Danny Kruger,Conservative,Conservative,140,0.15045135406218657,0.0014654563647474997,0.0
+uk.org.publicwhip/person/25914,Apsana Begum,Labour,Labour,49,0.054575491179420614,0.0006710057036686318,0.0
+uk.org.publicwhip/person/25915,Taiwo Owatemi,Labour,Labour,32,0.03171278541506874,0.0004899263580642757,0.0
+uk.org.publicwhip/person/25916,Aaron Bell,Conservative,Conservative,138,0.15782642043778394,0.00152822018811609,0.0
+uk.org.publicwhip/person/25917,Marco Longhi,Conservative,Conservative,82,0.10325092925836332,0.0010159647679396106,0.0
+uk.org.publicwhip/person/25918,Chris Loder,Conservative,Conservative,68,0.07227565048085433,0.0008408533860423477,1.604415351046079e-05
+uk.org.publicwhip/person/25919,Richard Thomson,Scottish National Party,Scottish National Party,132,0.19248923240309163,0.0019027422755737318,0.001603181185391428
+uk.org.publicwhip/person/25920,Gagan Mohindra,Conservative,Conservative,57,0.06932562393061538,0.0008117439715446589,0.0
+uk.org.publicwhip/person/25921,Jane Hunt,Conservative,Conservative,63,0.05826302436721931,0.0006968555324093164,0.0
+uk.org.publicwhip/person/25922,Robbie Moore,Conservative,Conservative,228,0.230839577556198,0.0021809562733135592,2.7151644402318258e-05
+uk.org.publicwhip/person/25923,Mark Eastwood,Conservative,Conservative,51,0.05088795799162193,0.0006047376606739439,0.0
+uk.org.publicwhip/person/25924,David Johnston,Conservative,Conservative,188,0.23157708419375775,0.0022474376956816617,0.00013822655332089296
+uk.org.publicwhip/person/25925,Greg Smith,Conservative,Conservative,173,0.2986901882116939,0.002638386531603108,0.01647611148958858
+uk.org.publicwhip/person/25926,Suzanne Webb,Conservative,Conservative,23,0.020650185851672664,0.000392252505509737,0.0
+uk.org.publicwhip/person/25927,Andrew Griffith,Conservative,Conservative,290,0.37612838515546637,0.0036408616643073305,0.005188432412152089
+uk.org.publicwhip/person/25984,Jill Mortimer,Conservative,Conservative,25,0.024337719039471354,0.0004211949675773049,0.0
+uk.org.publicwhip/person/26020,Anum Qaisar,Scottish National Party,Scottish National Party,71,0.0892383031447283,0.0009326103968611673,0.0
+uk.org.publicwhip/person/26034,Sarah Green,Liberal Democrat,Liberal Democrat,54,0.0523629712667414,0.0006304388026634512,0.0
+uk.org.publicwhip/person/26040,Kim Leadbeater,Labour,Labour,55,0.05015045135406219,0.0006410158320759022,0.0
+uk.org.publicwhip/person/26055,Louie French,Conservative,Conservative,137,0.13865124786123076,0.001361525228161311,0.0
+uk.org.publicwhip/person/26056,Helen Morgan,Liberal Democrat,Liberal Democrat,157,0.1939642456782111,0.00178441112325395,0.00043195797912779047
+uk.org.publicwhip/person/26059,Anna Firth,Conservative,Conservative,241,0.3200778807009263,0.0029018799664345266,0.004041892518981468
+uk.org.publicwhip/person/26061,Paulette Hamilton,Labour,Labour,73,0.06490058410525695,0.0007527411671649158,0.0
+uk.org.publicwhip/person/26085,Simon Lightwood,Labour,Labour,76,0.08038822349401145,0.0009124320988247881,9.87332523720664e-06
+uk.org.publicwhip/person/26086,Richard Foord,Liberal Democrat,Liberal Democrat,263,0.3975160776446988,0.00353382544674409,0.010764804228416087
+uk.org.publicwhip/person/26118,Samantha Dixon,Labour,Labour,101,0.10251342262080358,0.0010585542037048435,0.0
+uk.org.publicwhip/person/26120,Andrew Western,Labour,Labour,111,0.1334887013983126,0.001282920085529096,0.0006541077969649399
+uk.org.publicwhip/person/26123,Ashley Dalton,Labour,Labour,85,0.09587586288276595,0.0010240180999126873,0.0
+uk.org.publicwhip/person/26269,Steve Tuckwell,Conservative,Conservative,43,0.038350345153106376,0.0005442947847793228,0.0
+uk.org.publicwhip/person/26270,Sarah Dyke,Liberal Democrat,Liberal Democrat,106,0.10177591598324386,0.001058464527741462,9.87332523720664e-06
+uk.org.publicwhip/person/26271,Keir Mather,Labour,Labour,50,0.04203787834090507,0.0005757073513446354,0.0
+uk.org.publicwhip/person/26276,Michael Shanks,Labour,Labour,66,0.07227565048085433,0.000818252323592576,2.46833130930166e-06
+uk.org.publicwhip/person/26277,Sarah Edwards,Labour,Labour,42,0.03540031860286742,0.0005158063691240329,0.0
+uk.org.publicwhip/person/26278,Alistair Strathern,Labour,Labour,63,0.06490058410525695,0.0007450426052476264,0.0
+uk.org.publicwhip/person/26287,Damien Egan,Labour,Labour,4,0.002950026550238952,0.0002592012177431369,0.0
+uk.org.publicwhip/person/26288,Gen Kitchen,Labour,Labour,17,0.014012626113635024,0.0003568910834305571,0.0
+uk.org.publicwhip/person/26305,Chris Webb,Labour,Labour,8,0.00737506637559738,0.0002949696298759357,0.0

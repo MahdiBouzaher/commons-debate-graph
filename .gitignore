@@ -1,0 +1,7 @@
+data/raw/
+data/people.json
+data/speeches.csv
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pptx

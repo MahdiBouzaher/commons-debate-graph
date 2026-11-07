@@ -1,0 +1,6 @@
+group,MPs,MP share %,pagerank share %,ratio,betweenness_mean,government
+Conservative,111,18.347,16.171,0.881,0.003,False
+Labour,374,61.818,66.74,1.08,0.004,True
+Liberal Democrat,71,11.736,10.138,0.864,0.002,False
+Other,41,6.777,6.03,0.89,0.007,False
+Scottish National Party,8,1.322,0.921,0.696,0.001,False

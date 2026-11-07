@@ -1,0 +1,18 @@
+,sunak (w>=1),sunak (w>=2),starmer (w>=1),starmer (w>=2),burnham (w>=1),burnham (w>=2)
+nodes,638,638,643,643,605,605
+edges,35739,13486,59528,23196,8100,1358
+total weight,67796,45543,120422,84090,10119,3377
+density,0.0879,0.0332,0.1442,0.0562,0.0222,0.0037
+strongly connected,False,False,True,False,True,False
+weakly connected,True,False,True,False,True,False
+strong components,2,21,1,7,1,267
+largest strong component,637,618,643,637,605,333
+weak components,1,13,1,5,1,156
+largest weak component,638,626,643,639,605,448
+isolated MPs,0,12,0,4,0,153
+component size,637.0,618.0,643.0,637.0,605.0,333.0
+diameter,4.0,5.0,4.0,5.0,6.0,14.0
+radius,2.0,3.0,2.0,3.0,3.0,5.0
+average shortest path,1.98,2.32,1.87,2.08,2.6,3.88
+center size,1.0,99.0,7.0,449.0,4.0,1.0
+periphery size,42.0,7.0,4.0,1.0,4.0,1.0
